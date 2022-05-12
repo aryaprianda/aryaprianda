@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFASSRx_Mw/az6QD0o80pDNlF5XhWlhEg/view?utm_content=DAFASSRx_Mw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner">
+<img src="https://static.vecteezy.com/system/resources/previews/000/344/684/non_2x/programming-code-on-laptop-banner-vector-flat-illustration.jpg" alt="Banner">
 <hr>
 <h1 align="center">Hi 👋, I'm Muhammad Arya Prianda</h1>
 <h3 align="center">A passionate IT Enthusiast from Indonesia</h3>
