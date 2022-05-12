@@ -14,8 +14,7 @@
       alt="aryaprianda"
     />
   </p>
-  <div class="row">
-    <div class="col">
+  
       <ul>
         <li>🌱 I’m currently learning **Mobile Programming**</li>
         <li>💬 Ask me about **Web Developer, Networking, Linux Server**</li>
@@ -43,9 +42,6 @@
             width="40"
         /></a>
       </p>
-    </div>
-    <div class="col"></div>
-  </div>
 
   <h3 align="center">Languages and Tools:</h3>
   <p align="center">
