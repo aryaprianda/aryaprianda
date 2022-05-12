@@ -14,9 +14,10 @@
     />
   </p>
 
-  - 🌱 I’m currently learning **Mobile Programming** - 💬 Ask me about **Web
-  Developer, Networking, Linux Server** - 📫 How to reach me
-  **aryaprianda4813@gmail.com** - ⚡ Fun fact **Noodleholic 🍜**
+  - 🌱 I’m currently learning **Mobile Programming** 
+  - 💬 Ask me about **Web Developer, Networking, Linux Server** 
+  - 📫 How to reach me **aryaprianda4813@gmail.com** 
+  - ⚡ Fun fact **Noodleholic 🍜**
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
