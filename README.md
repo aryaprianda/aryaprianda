@@ -1,8 +1,9 @@
 <img src="https://static.vecteezy.com/system/resources/previews/000/344/684/non_2x/programming-code-on-laptop-banner-vector-flat-illustration.jpg" alt="Banner">
-<hr>
+<br>
 <h1 align="center">Hi 👋, I'm Muhammad Arya Prianda</h1>
 <h3 align="center">A passionate IT Enthusiast from Indonesia</h3>
 
+<img align="right" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaprianda&label=Profile%20views&color=0e75b6&style=flat" alt="aryaprianda" /> </p>
 
 - 🌱 I’m currently learning **Mobile Programming**
