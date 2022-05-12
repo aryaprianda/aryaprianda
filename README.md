@@ -15,11 +15,11 @@
     />
   </p>
   
-      <ul>
-        <li>🌱 I’m currently learning **Mobile Programming**</li>
-        <li>💬 Ask me about **Web Developer, Networking, Linux Server**</li>
-        <li>📫 How to reach me **aryaprianda4813@gmail.com**</li>
-      </ul>
+      <p
+         - 🌱 I’m currently learning **Mobile Programming**</li>
+         - 💬 Ask me about **Web Developer, Networking, Linux Server**</li>
+         -📫 How to reach me **aryaprianda4813@gmail.com**</li>
+      >
 
       <h3 align="center">Connect with me:</h3>
       <p align="center">
