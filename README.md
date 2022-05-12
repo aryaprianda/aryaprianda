@@ -1,6 +1,6 @@
 <div class="div" style="background-color: white">
   <h1 align="center">Hi 👋, I'm Muhammad Arya Prianda</h1>
-  <h3 align="center">A passionate IT Enthusiast from Indonesia</h3>
+  <h3 align="center">IT Enthusiast from Indonesia</h3>
 
   <img
     align="right"
