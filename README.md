@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/10_Eb-fJ-Kx_hVLyhqwcDYdG2gwemKr76/view?usp=sharing" alt="Banner">
+<img src="https://www.canva.com/design/DAFASSRx_Mw/az6QD0o80pDNlF5XhWlhEg/view?utm_content=DAFASSRx_Mw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner">
 <hr>
 <h1 align="center">Hi 👋, I'm Muhammad Arya Prianda</h1>
 <h3 align="center">A passionate IT Enthusiast from Indonesia</h3>
