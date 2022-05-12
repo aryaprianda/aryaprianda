@@ -1,18 +1,20 @@
 <div class="div" style="background-color: white">
   <h1 align="center">Hi 👋, I'm Muhammad Arya Prianda</h1>
   <h3 align="center">IT Enthusiast from Indonesia</h3>
-
-  <img
-    align="right"
-    width="400"
-    src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"
-  />
+  
+  
   <p align="left">
     <img
       src="https://komarev.com/ghpvc/?username=aryaprianda&label=Profile%20views&color=0e75b6&style=flat"
       alt="aryaprianda"
     />
   </p>
+
+  <img
+    align="right"
+    width="400"
+    src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"
+  />
 
   - 🌱 I’m currently learning **Mobile Programming** 
   - 💬 Ask me about **Web Developer, Networking, Linux Server** 
@@ -28,14 +30,6 @@
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="https://www.linkedin.com/in/muhammad-arya-prianda-92bb6a21a"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://instagram.com/rey.anda" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="rey.anda"
         height="30"
         width="40"
     /></a>
