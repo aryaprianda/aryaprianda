@@ -1,5 +1,3 @@
-<img src="https://static.vecteezy.com/system/resources/previews/000/344/684/non_2x/programming-code-on-laptop-banner-vector-flat-illustration.jpg" alt="Banner">
-<br>
 <h1 align="center">Hi 👋, I'm Muhammad Arya Prianda</h1>
 <h3 align="center">A passionate IT Enthusiast from Indonesia</h3>
 
