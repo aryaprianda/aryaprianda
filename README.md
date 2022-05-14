@@ -1,14 +1,6 @@
 <div class="div" style="background-color: white">
   <h1 align="center">Hi 👋, I'm Muhammad Arya Prianda</h1>
   <h3 align="center">IT Enthusiast from Indonesia</h3>
-  
-  
-  <p align="left">
-    <img
-      src="https://komarev.com/ghpvc/?username=aryaprianda&label=Profile%20views&color=0e75b6&style=flat"
-      alt="aryaprianda"
-    />
-  </p>
 
   <img
     align="right"
