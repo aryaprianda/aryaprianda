@@ -5,5 +5,5 @@
   <img
     align="left"
     width="400"
-    src="[https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif](https://www.icegif.com/wp-content/uploads/2022/01/icegif-962.gif)"
+    src="https://cdn.vox-cdn.com/thumbor/pfbnQe-iK9zeqcSi9Yw2DWMrEfw=/0x0:480x270/1400x1050/filters:focal(202x97:278x173):format(gif)/cdn.voxcdn.com/uploads/chorus_image/image/60136967/D8149AD7_75AC_4177_B8F7_273F4ED1F587.0.gif"
   />
